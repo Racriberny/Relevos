@@ -18,7 +18,7 @@ public class Carrera {
             hilos[i].start();
             hilos[i].join();
         }
-        System.out.println("Ya no quedam mas atletas en la carrera!!!!");
+        System.out.println("Ya no quedam mas atletas en la carrera!!!!!!");
 
         System.out.println("Resultado!!!!");
 
